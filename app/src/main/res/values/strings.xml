@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RouteTracker4U</string>
+    <string name="title_activity_route_tracker4_u">RouteTracker4U</string>
+    <string name="button_start_tracking">Start Tracking</string>
+    <string name="button_stop_tracking">Stop Tracking</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_ok">OK</string>
+    <string name="menuitem_hybrid">Hybrid</string>
+    <string name="menuitem_satellite">Satellite</string>
+    <string name="menuitem_map">Map</string>
+    <string name="results">Distance and Average Speed</string>
+    <string name="results_format">Distance: %1$.4fKM %2$.4fMI\nAverage speed: %3$.1fKPH %4$.1fMPH</string>
+    <string name="toast_signal_acquired">GPS signal acquired</string>
+    <string name="toast_signal_lost">GPS signal lost</string>
+</resources>
